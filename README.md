@@ -3,7 +3,7 @@
   <img src="https://img.magnific.com/free-photo/aesthetic-anime-character-gaming_23-2151560650.jpg?semt=ais_incoming&w=740&q=80">
 </div>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"/> Hi, I'm <a href="https://github.com/Ggboykxz"><img src="https://github.com/Ggboykxz.png" alt="Ggboykxz GitHub Avatar" width="60px" style="border-radius: 50%;"/> Seph Poaty</a>!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"/> Hi, I'm <a href="https://github.com/Ggboykxz"><img src="https://github.com/Ggboykxz.png" alt="Ggboykxz GitHub Avatar" width="60px" style="border-radius: 50%;"/> Ggboykxz</a>!
 <img align="right" src="https://komarev.com/ghpvc/?username=Ggboykxz" alt="GitHub profile views counter"/>
 
 <div>
